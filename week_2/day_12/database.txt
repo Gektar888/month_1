@@ -1,0 +1,13 @@
+log = input("vvedite login:")
+passwd = input("vvedite password:")
+
+
+keylogger = {'login': None , 'password': None}
+
+ff = open('example.txt' , 'a')
+log = keylogger['login'] = log
+passwd = keylogger['password'] = passwd
+ff.writelines('login : ' + log + ' '+' password : '+ passwd + '\n' )
+ff.close()
+with open ('example.txt' , 'r') as f:
+	print (f.read())

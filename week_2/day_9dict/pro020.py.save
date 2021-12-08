@@ -1,0 +1,5 @@
+set = {'.add(*)','.remove(*)', '.clear(*)', '.update(*)', '.difference(*)','.discard(*)',
+'.intersection(*)','.pop(*)'
+}
+dict = {'.clear()','.keys()', '.items()','.get(''*'')', '.values()','.updh.intersection(dict)
+print (a)

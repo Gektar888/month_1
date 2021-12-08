@@ -1,0 +1,8 @@
+
+bin    etc    lib64       mnt   run   swapfile  var
+boot   home   libx32      opt   sbin  sys
+cdrom  lib    lost+found  proc  snap  tmp
+dev    lib32  media       root  srv   usr
+
+
+asdawewaerww WWWW

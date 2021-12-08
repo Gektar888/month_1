@@ -1,0 +1,5 @@
+c = input()
+b = ( )
+e = list(b)
+b[0]= tuple(b)
+print (b)

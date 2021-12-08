@@ -1,0 +1,6 @@
+login : adik  password : 1234
+login : asdsad  password : 123214
+login : asdas  password : asdsa
+login : asd  password : asdasd
+login : asd  password : asd/home/adilet/Downloads/index.jpeg
+login : asd  password : asd 

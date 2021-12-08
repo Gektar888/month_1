@@ -1,0 +1,16 @@
+log = input("vvedite login:")
+passwd = input("vvedite password:")
+foto = input ('fotka:"//home/adilet/Downloads/index.jpeg')
+
+keylogger = {'login': None, 'password': None, 'foto': None}
+
+ff = open('example.txt' , 'a')
+logg = keylogger['login'] = log
+passwdd = keylogger['password'] = passwd
+fotoo = keylogger['foto'] = foto
+
+ff.writelines('login : ' + log + ' '+' password : '+ passwd + foto + '\n' )
+ff.close()
+with open ('example.txt' , 'r') as f:
+        print (f.read())
+

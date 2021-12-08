@@ -1,0 +1,4 @@
+f = open ('sozdanie_a.txt' , 'a')
+rf = f.read()
+asdsads
+print (rf)
