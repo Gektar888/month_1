@@ -1,0 +1,10 @@
+input ("vashe imya")
+a = ("zdravstvuite adilet")
+print (a)
+input ("vash vozrast")
+b = ("25")
+print (b)
+input ("vash lumibyi film")
+c = ("Gektar eto lushwii film!!!")
+print (c)
+
